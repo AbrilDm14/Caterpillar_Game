@@ -4,4 +4,4 @@ Move two caterpillars (collaborative game) around the screen to eat leaves. The 
 
 ![image](https://github.com/AbrilDm14/Caterpillar_Game/assets/130613750/224ceb26-7431-40ad-b26a-594962a85ec7)
 
-Project from: (2017). *Coding Projects in Python*. DK Penguin Random House. 🐛
+Project from: (2017). *Coding Projects in Python*. DK Penguin Random House. 
