@@ -1,4 +1,4 @@
-# CaterpillarGame
+# Caterpillar Game
 
 Move two caterpillars (collaborative game) around the screen to eat leaves. The more leaves you eat, the higher the number of points you gain, but the bigger and faster the caterpillar. Keep the caterpillar inside the game window, or the game is over.
 
